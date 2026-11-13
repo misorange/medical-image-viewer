@@ -1,0 +1,9 @@
+{
+  "spacing_zyx_mm": [
+    2.5,
+    0.78125,
+    0.78125
+  ],
+  "source": "第5回で抽出した肺領域の再修正版。8bit表示用データでありHUではない。",
+  "order": "ImagePositionPatient z ascending"
+}
